@@ -1,1 +1,31 @@
 # Design ideas here
+
+## theme: egg
+
+### name ideas: eggcellent defense? 
+
+tower defense, each round egg hatches new tower
+2d top-down
+
+merge towers?
+
+merging gives upgrade points for upgrade tree
+
+enemies: predators
+crows, snakes eg
+
+flying/ground, towers do different damage/only hit these types
+
+hero tower? unique and upgrades on kill xp instead of merging
+
+bosses with healthbars, abilities maybe freeze nearby towers
+
+free-place towers
+
+trait system, base or upgrade trees give traits to towers. Towers synergise with traits and traits might do more/less damage to enemies
+
+powerful units have aimable power ability
+
+gain xp/currency with score, unlock unique heroes with xp
+
+Clearing stage unlocks new units
