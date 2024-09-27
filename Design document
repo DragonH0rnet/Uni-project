@@ -5,6 +5,7 @@
 ### name ideas: eggcellent defense? 
 
 tower defense, each round egg hatches new tower
+choose egg at start of round
 2d top-down
 
 merge towers?
@@ -13,8 +14,6 @@ merging gives upgrade points for upgrade tree
 
 enemies: predators
 crows, snakes eg
-
-flying/ground, towers do different damage/only hit these types
 
 hero tower? unique and upgrades on kill xp instead of merging
 
