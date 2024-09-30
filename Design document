@@ -1,30 +1,3 @@
-# Design ideas here
-
-## theme: egg
-
-### name ideas: eggcellent defense? Scrambled Saviour 
-
-tower defense, each round egg hatches new tower
-choose egg at start of round
-2d top-down
-
-merge towers?
-
-merging gives upgrade points for upgrade tree
-
-enemies: predators
-crows, snakes eg
-
-hero tower? unique and upgrades on kill xp instead of merging
-
-bosses with healthbars, abilities maybe freeze nearby towers
-
-free-place towers
-
-trait system, base or upgrade trees give traits to towers. Towers synergise with traits and traits might do more/less damage to enemies
-
-powerful units have aimable power ability
-
-gain xp/currency with score, unlock unique heroes with xp
-
-Clearing stage unlocks new units
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcd4753da07c4a506dd3ea9e51c117b8734454489385214233922941f8c9cac5
+size 697
